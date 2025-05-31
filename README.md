@@ -42,7 +42,6 @@ The following elements are used in the program to model the look and texture of 
     ├── KeypadForm.cs              # Main logic for input processing
     ├── KeypadForm.Designer.cs     # UI Design Code
     ├── Resources/                 # Contains images for keypad buttons
-    ├── README.md                  # Project documentation
     └── Utility    
          └── ButtonMapper.cs       # Define button mapping > numbers to characters   
          └── TextDecorder.cs       # Text decorder class        
@@ -50,6 +49,8 @@ The following elements are used in the program to model the look and texture of 
     KeypadProjectTest/
     │
     ├── KeypadUnitTest.cs          # Test Cases
+    
+    README.md                      # Project documentation
 
 
 
